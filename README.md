@@ -140,13 +140,13 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
-#### In-Context Learning
+#### In-Context Learning (ICL)
 
-#### Chain-of-Thought Prompting
+#### Chain-of-Thought Prompting (CoT)
 
-#### Instruction Tuning
+#### Instruction Tuning (IT)
 
-#### Alignment Tuning
+#### Alignment Tuning (AT)
 
 <!-- ########################################### -->
 
