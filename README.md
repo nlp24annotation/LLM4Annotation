@@ -173,8 +173,21 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Instruction Tuning (IT)
 
-- [ICLR 2023] Automatic chain of thought prompting in large language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf) [[code]](https://github.com/amazon-research/auto-cot)
+- [arXiv 2022] Scaling instruction-finetuned language models. [[pdf]](https://arxiv.org/pdf/2210.11416.pdf) [[code]](https://huggingface.co/docs/transformers/model_doc/flan-t5)
 
+- [ACL 2023] Crosslingual Generalization through Multitask Finetuning. [[pdf]](https://aclanthology.org/2023.acl-long.891.pdf) [[code]](https://github.com/bigscience-workshop/xmtf)
+
+- [ACL 2023] Crosslingual Generalization through Multitask Finetuning. [[pdf]](https://aclanthology.org/2023.acl-long.754.pdf) [[code]](https://github.com/yizhongw/self-instruct)
+
+- [NeurIPS 2022] Large Language Models are Zero-Shot Reasoners. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
+
+- [arXiv 2023] LLaMA: Open and Efficient Foundation Language Models. [[pdf]](https://arxiv.org/pdf/2302.13971.pdf)[[code]](https://github.com/facebookresearch/llama)
+
+- [arXiv 2022] Teaching language models to support answers with verified quotes. [[pdf]](https://arxiv.org/pdf/2203.11147.pdf) [[data]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/gophercite-teaching-language-models-to-support-answers-with-verified-quotes/eli5-examples-v2.html)
+
+- [ACL 2023] Can Large Language Models Be an Alternative to Human Evaluations? [[pdf]](https://arxiv.org/pdf/2305.01937.pdf)
+
+- Stanford alpaca: An instruction-following llama model. [[HTML]](https://crfm.stanford.edu/2023/03/13/alpaca.html) [[code]](https://github.com/tatsu-lab/stanford_alpaca)
 
 #### Alignment Tuning (AT)
 
@@ -189,6 +202,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [arXiv 2023] A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[pdf]](https://arxiv.org/pdf/2307.12980.pdf)  [[repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/)
 
 - [arXiv 2022] A Survey on In-context Learning. [[pdf]](https://arxiv.org/pdf/2301.00234.pdf)
+
+- [arXiv 2022] A Comprehensive Survey on Instruction Following. [[pdf]](https://arxiv.org/pdf/2303.10475.pdf) [[repo]](https://github.com/RenzeLou/awesome-instruction-learning)
 
 
 
