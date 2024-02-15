@@ -133,12 +133,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
-- [ICLR 2022] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2110.08207.pdf) [[code]](https://github.com/bigscience-workshop/t-zero)
-
-- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
-
-- [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
-
 #### In-Context Learning (ICL)
 
 - [NeurIPS 2020] Language Models are Few-Shot Learners. [[pdf]](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
@@ -172,6 +166,12 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ACL 2023] SCOTT: Self-Consistent Chain-of-Thought Distillation. [[pdf]](https://aclanthology.org/2023.acl-long.304v2.pdf)
 
 #### Instruction Tuning (IT)
+
+- [ICLR 2022] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2110.08207.pdf) [[code]](https://github.com/bigscience-workshop/t-zero)
+
+- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
+
+- [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
 
 - [arXiv 2022] Scaling instruction-finetuned language models. [[pdf]](https://arxiv.org/pdf/2210.11416.pdf) [[code]](https://huggingface.co/docs/transformers/model_doc/flan-t5)
 
