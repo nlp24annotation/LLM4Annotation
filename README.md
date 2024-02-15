@@ -96,6 +96,25 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Target Domain Inference: Direct Utilization of Annotations
 
+- [ACL 2022] An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels. [[pdf]](https://aclanthology.org/2022.acl-long.60.pdf) [[code]](https://github.com/BYU-PCCL/information-theoretic-prompts)
+
+- [TMLR 2022] Emergent Abilities of Large Language Models. [[pdf]](https://arxiv.org/pdf/2206.07682.pdf)
+
+- [NeurIPS 2022] Large Language Models are Zero-Shot Reasoners. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
+
+- [EMNLP 2019] Language Models as Knowledge Bases? [[pdf]](https://arxiv.org/pdf/1909.01066.pdf) [[code]](https://github.com/facebookresearch/LAMA)
+
+- [arXiv 2023] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. [[pdf]](https://arxiv.org/pdf/2305.00050.pdf) 
+
+- [ECIR 2024] Large Language Models are Zero-Shot Rankers for Recommender Systems. [[pdf]](https://arxiv.org/pdf/2305.08845.pdf) [[code]](https://github.com/RUCAIBox/LLMRank)
+
+- [arXiv 2023] A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[pdf]](https://arxiv.org/pdf/2307.12980.pdf)  [[repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/)
+
+
+- [PMLR 2021] Learning Transferable Visual Models From Natural Language Supervision. [[pdf]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [[code]](https://github.com/OpenAI/CLIP)
+
+- [arXiv 2022] Visual Classification via Description from Large Language Models. [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
+
 ### Knowledge Distillation: Bridging LLM and task-specific models
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
