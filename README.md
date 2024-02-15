@@ -145,6 +145,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ICLR 2022] Selective Annotation Makes Language Models Better Few-Shot Learners. [[pdf]](https://arxiv.org/pdf/2209.01975.pdf) [[code]](https://github.com/HKUNLP/icl-selective-annotation)
 
+- [arXiv 2022] Instruction Induction: From Few Examples to Natural Language Task Descriptions. [[pdf]](https://arxiv.org/pdf/2205.10782.pdf) [[code]] (https://github.com/orhonovich/instruction-induction)
+
 - [ACL 2023] Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models. [[pdf]](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf) 
 
 - [NAACL 2022] Improving In-Context Few-Shot Learning via Self-Supervised Training. [[pdf]](https://aclanthology.org/2022.naacl-main.260.pdf) 
