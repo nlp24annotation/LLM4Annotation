@@ -78,6 +78,18 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Data Selection via Active Learning
 
+- [EACL 2021] Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates. [[pdf]](https://aclanthology.org/2021.eacl-main.145.pdff)
+
+- [arXiv 2022] Active learning helps pretrained models learn the intended task. [[pdf]](https://arxiv.org/pdf/2204.08491.pdf) [[code]](https://github.com/alextamkin/active-learning-pretrained-models)
+
+- [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
+
+- [arXiv 2023] Large Language Models as Annotators: Enhancing Generalization of NLP Models at Minimal Cost. [[pdf]](https://arxiv.org/pdf/2306.15766.pdf)
+
+- [IUI 2023] ScatterShot: Interactive In-context Example Curation for Text Transformation. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581641.3584059) [[code]](https://github.com/tongshuangwu/scattershot)
+
+- [ICML 2023] Prefer to Classify: Improving Text Classifiers via Auxiliary Preference Learning. [[pdf]](https://arxiv.org/pdf/2306.04925) [[code]](https://github.com/minnesotanlp/p2c)
+
 <!-- ########################################### -->
 
 ## Learning with LLM-Generated Annotations
