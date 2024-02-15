@@ -191,6 +191,28 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Alignment Tuning (AT)
 
+- [arXiv 2019] Fine-Tuning Language Models from Human Preferences. [[pdf]](https://arxiv.org/pdf/1909.08593.pdf)[[code]](https://github.com/openai/lm-human-preferences)
+
+- [arXiv 2019] CTRL: A Conditional Transformer Language Model for Controllable Generation. [[pdf]](https://arxiv.org/pdf/1909.05858.pdf)[[code]](https://github.com/salesforce/ctrl)
+
+- [arXiv 2023] Chain of hindsight aligns language models with feedback. [[pdf]](https://arxiv.org/pdf/2302.02676.pdf)[[code]](https://github.com/lhao499/chain-of-hindsight)
+
+- [PMLR 2023] Pretraining Language Models with Human Preferences. [[pdf]](https://proceedings.mlr.press/v202/korbak23a/korbak23a.pdf)[[code]](https://github.com/tomekkorbak/pretraining-with-human-feedback)
+
+- [NeurIPS 2017] Deep Reinforcement Learning from Human Preferences. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
+
+- [NeurIPS 2022] Training language models to follow instructions with human feedback. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
+
+- [arXiv 2023] GPT-4 Technical Report. [[pdf]](https://arxiv.org/pdf/2303.08774.pdf)
+
+- [arXiv 2023] Llama 2: Open Foundation and Fine-Tuned Chat Models. [[pdf]](https://arxiv.org/pdf/2303.08774.pdf) [[code]](https://github.com/facebookresearch/llama)
+
+- [ICLR 2023] Offline RL for Natural Language Generation with Implicit Language Q Learning. [[pdf]](https://arxiv.org/pdf/2206.11871.pdf) [[code]](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)
+
+- [arXiv 2022] Teaching language models to support answers with verified quotes. [[pdf]](https://arxiv.org/pdf/2203.11147.pdf) [[data]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/gophercite-teaching-language-models-to-support-answers-with-verified-quotes/eli5-examples-v2.html)
+
+- [arXiv 2023] RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback. [[pdf]](https://arxiv.org/pdf/2309.00267.pdf)
+
 <!-- ########################################### -->
 
 ## Surveys
