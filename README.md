@@ -231,4 +231,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Toolkits
 
-- Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose)
+- 
+
+<!-- - Mongoose: [[pdf]](https://people.clas.ufl.edu/hager/files/mongoose.pdf) [[code]](https://github.com/ScottKolo/Mongoose) -->
