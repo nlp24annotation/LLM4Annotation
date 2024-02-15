@@ -130,6 +130,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [arXiv 2023] Web Content Filtering through knowledge distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.05027.pdf)
 
+- [ICLR 2022] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2110.08207.pdf) [[code]](https://github.com/bigscience-workshop/t-zero)
+
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
@@ -141,7 +143,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
 
-- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2209.01975.pdf) [[code]](https://github.com/HKUNLP/icl-selective-annotation)
+- [ICLR 2022] Selective Annotation Makes Language Models Better Few-Shot Learners. [[pdf]](https://arxiv.org/pdf/2209.01975.pdf) [[code]](https://github.com/HKUNLP/icl-selective-annotation)
 
 - [ACL 2023] Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models. [[pdf]](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf) 
 
@@ -166,10 +168,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [ACL 2023] SCOTT: Self-Consistent Chain-of-Thought Distillation. [[pdf]](https://aclanthology.org/2023.acl-long.304v2.pdf)
 
 #### Instruction Tuning (IT)
-
-- [ICLR 2022] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2110.08207.pdf) [[code]](https://github.com/bigscience-workshop/t-zero)
-
-- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
 
 - [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
 
