@@ -30,8 +30,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [EMNLP 2022] ZeroGen: Efficient Zero-shot Learning via Dataset Generation. [[pdf]](https://arxiv.org/pdf/2202.07922.pdf) [[code]](https://github.com/jiacheng-ye/ZeroGen)
 
-- [ACM 2023] Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3560815)
-
 - [EMNLP 2021] Constrained Language Models Yield Few-Shot Semantic Parsers. [[pdf]](https://aclanthology.org/2021.emnlp-main.608.pdf) [[code]](https://github.com/microsoft/semantic_parsing_with_constrained_lm)
 
 - [NAACL-HLT 2022] Learning To Retrieve Prompts for In-Context Learning. [[pdf]](https://arxiv.org/pdf/2112.08633.pdf) [[code]](https://github.com/OhadRubin/EPR)
@@ -39,8 +37,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [arXiv 2023] Small Models are Valuable Plug-ins for Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.08848.pdf) [[code]](https://github.com/JetRunner/SuperICL)
 
 ### Alignment via Pairwise Feedback
-
-- [arXiv 2023] A Survey of Large Language Models. [[pdf]](https://arxiv.org/pdf/2303.18223.pdf)
 
 - [ACL 2023] Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers. [[pdf]](https://aclanthology.org/2023.findings-acl.247.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/understand_icl)
 
@@ -108,9 +104,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ECIR 2024] Large Language Models are Zero-Shot Rankers for Recommender Systems. [[pdf]](https://arxiv.org/pdf/2305.08845.pdf) [[code]](https://github.com/RUCAIBox/LLMRank)
 
-- [arXiv 2023] A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[pdf]](https://arxiv.org/pdf/2307.12980.pdf)  [[repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/)
-
-
 - [PMLR 2021] Learning Transferable Visual Models From Natural Language Supervision. [[pdf]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [[code]](https://github.com/OpenAI/CLIP)
 
 - [arXiv 2022] Visual Classification via Description from Large Language Models. [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
@@ -150,15 +143,11 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [NeurIPS 2020] Language Models are Few-Shot Learners. [[pdf]](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
-- [arXiv 2022] A Survey on In-context Learning. [[pdf]](https://arxiv.org/pdf/2301.00234.pdf)
-
 - [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
 
 - [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
 
 - [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2209.01975.pdf) [[code]](https://github.com/HKUNLP/icl-selective-annotation)
-
-- [arXiv 2022] A Survey of Large Language Models. [[pdf]](https://arxiv.org/pdf/2303.18223.pdf) [[repo]](https://github.com/RUCAIBox/LLMSurvey)
 
 - [ACL 2023] Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models. [[pdf]](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf) 
 
@@ -184,13 +173,24 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Instruction Tuning (IT)
 
+- [ICLR 2023] Automatic chain of thought prompting in large language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf) [[code]](https://github.com/amazon-research/auto-cot)
+
+
 #### Alignment Tuning (AT)
 
 <!-- ########################################### -->
 
 ## Surveys
 
-- [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
+- [ACM 2023] Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3560815)
+
+- [arXiv 2022] A Survey of Large Language Models. [[pdf]](https://arxiv.org/pdf/2303.18223.pdf) [[repo]](https://github.com/RUCAIBox/LLMSurvey)
+
+- [arXiv 2023] A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[pdf]](https://arxiv.org/pdf/2307.12980.pdf)  [[repo]](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model/)
+
+- [arXiv 2022] A Survey on In-context Learning. [[pdf]](https://arxiv.org/pdf/2301.00234.pdf)
+
+
 
 ## Toolkits
 
