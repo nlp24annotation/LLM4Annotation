@@ -177,7 +177,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ACL 2023] Crosslingual Generalization through Multitask Finetuning. [[pdf]](https://aclanthology.org/2023.acl-long.891.pdf) [[code]](https://github.com/bigscience-workshop/xmtf)
 
-- [ACL 2023] Crosslingual Generalization through Multitask Finetuning. [[pdf]](https://aclanthology.org/2023.acl-long.754.pdf) [[code]](https://github.com/yizhongw/self-instruct)
+- [ACL 2023] SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions. [[pdf]](https://aclanthology.org/2023.acl-long.754.pdf) [[code]](https://github.com/yizhongw/self-instruct)
 
 - [NeurIPS 2022] Large Language Models are Zero-Shot Reasoners. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
 
