@@ -117,6 +117,27 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Knowledge Distillation: Bridging LLM and task-specific models
 
+- [arXiv 2022] Teaching Small Language Models to Reason. [[pdf]](https://arxiv.org/pdf/2212.08410.pdf)
+
+- [arXiv 2023] Specializing Smaller Language Models towards Multi-Step Reasoning. [[pdf]](https://arxiv.org/pdf/2301.12726.pdf)
+
+- [EMNLP 2023] Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents. [[pdf]](https://arxiv.org/pdf/2304.09542.pdf) [[code]](https://github.com/sunnweiwei/RankGPT)
+
+- [ACL 2023] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes. [[pdf]](https://arxiv.org/pdf/2305.02301.pdf) [[code]](https://github.com/google-research/distilling-step-by-step)
+
+- [ACL 2023] GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo. [[pdf]](http://static.nomic.ai.s3.amazonaws.com/gpt4all/2023_GPT4All_Technical_Report.pdf) [[code]](https://github.com/nomic-ai/gpt4all)
+
+- [ACL 2023] GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model. [[pdf]](https://aclanthology.org/2023.acl-industry.15.pdf) [[code]](https://github.com/aitsc/GLMKD)
+
+- [EMNLP 2023] Lion: Adversarial Distillation of Proprietary Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.12870.pdf) [[code]](https://github.com/YJiangcm/Lion)
+
+- [arXiv 2023] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2306.08543.pdf) [[code]](https://github.com/microsoft/LMOps/tree/main/minillm)
+
+- [arXiv 2023] Distilling Large Language Models for Biomedical Knowledge Extraction: A Case Study on Adverse Drug Events. [[pdf]](https://arxiv.org/pdf/2307.06439.pdf)
+
+- [arXiv 2023] Web Content Filtering through knowledge distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.05027.pdf)
+
+
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
 <!-- ########################################### -->
