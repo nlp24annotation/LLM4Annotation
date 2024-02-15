@@ -62,6 +62,20 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Evaluating LLM-Generated Annotations
 
+- [arXiv 2020] The Turking Test: Can Language Models Understand Instructions? [[pdf]](https://arxiv.org/pdf/2010.11982.pdf)
+
+- [arXiv 2022] Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor. [[pdf]](https://arxiv.org/pdf/2212.09689.pdf) [[code]](https://github.com/orhonovich/unnatural-instructions)
+
+- [arXiv 2023] Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks. [[pdf]](https://arxiv.org/pdf/2307.02179.pdf)
+
+- [arXiv 2023] Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks. [[pdf]](https://arxiv.org/pdf/2307.02179.pdf)
+
+- [NAACL 2022] LMTurk: Few-Shot Learners as Crowdsourcing Workers in a Language-Model-as-a-Service Framework. [[pdf]](https://aclanthology.org/2022.findings-naacl.51.pdf) [[code]](https://github.com/lmturk)
+
+- [EMNLP 2022] Large Language Models are Few-Shot Clinical Information Extractors. [[pdf]](https://aclanthology.org/2022.emnlp-main.130.pdf) [[data]](https://huggingface.co/datasets/mitclinicalml/clinical-ie)
+
+- [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
+
 ### Data Selection via Active Learning
 
 <!-- ########################################### -->
