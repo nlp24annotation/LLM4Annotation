@@ -163,7 +163,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [ICLR 2023] Automatic chain of thought prompting in large language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf) [[code]](https://github.com/amazon-research/auto-cot)
 
-- [arXiv 2022] Rationale-augmented ensembles in language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf)
+- [arXiv 2022] Rationale-augmented ensembles in language models. [[pdf]](https://arxiv.org/pdf/2207.00747.pdf)
 
 - [arXiv 2023] Specializing Smaller Language Models towards Multi-Step Reasoning. [[pdf]](https://arxiv.org/pdf/2301.12726.pdf)
 
