@@ -140,7 +140,28 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
+- [ICLR 2022] Knowledge Distillation of Large Language Models. [[pdf]](https://arxiv.org/pdf/2110.08207.pdf) [[code]](https://github.com/bigscience-workshop/t-zero)
+
+- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
+
+- [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
+
 #### In-Context Learning (ICL)
+- [NeurIPS 2020] Language Models are Few-Shot Learners. [[pdf]](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+
+- [arXiv 2022] A Survey on In-context Learning. [[pdf]](https://arxiv.org/pdf/2301.00234.pdf)
+
+- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2109.01652.pdf) [[code]](https://github.com/google-research/flan)
+
+- [EMNLP 2023] Active Learning Principles for In-Context Learning with Large Language Models. [[pdf]](https://aclanthology.org/2023.findings-emnlp.334.pdf)
+
+- [ICLR 2022] Finetuned Language Models Are Zero-Shot Learners. [[pdf]](https://arxiv.org/pdf/2209.01975.pdf) [[code]](https://github.com/HKUNLP/icl-selective-annotation)
+
+- [arXiv 2022] A Survey of Large Language Models. [[pdf]](https://arxiv.org/pdf/2303.18223.pdf) [[repo]](https://github.com/RUCAIBox/LLMSurvey)
+
+- [ACL 2023] Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models. [[pdf]](https://proceedings.mlr.press/v202/shao23a/shao23a.pdf) 
+
+- [NAACL 2022] Improving In-Context Few-Shot Learning via Self-Supervised Training. [[pdf]](https://aclanthology.org/2022.naacl-main.260.pdf) 
 
 #### Chain-of-Thought Prompting (CoT)
 
@@ -152,9 +173,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ## Surveys
 
-Graph Reduction/ Summarization / Simplification
-
-- **[Ours][arXiv 2024] A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation. [[pdf]](https://arxiv.org/abs/2402.03358)**
 - [arXiv 2024] A Survey on Graph Condensation. [[pdf]](https://arxiv.org/abs/2402.02000)
 
 ## Toolkits
