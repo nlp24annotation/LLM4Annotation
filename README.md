@@ -140,6 +140,14 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Harnessing LLM Annotations for Fine-Tuning and Prompting
 
+#### In-Context Learning
+
+#### Chain-of-Thought Prompting
+
+#### Instruction Tuning
+
+#### Alignment Tuning
+
 <!-- ########################################### -->
 
 ## Surveys
