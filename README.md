@@ -147,6 +147,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
 
 #### In-Context Learning (ICL)
+
 - [NeurIPS 2020] Language Models are Few-Shot Learners. [[pdf]](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 - [arXiv 2022] A Survey on In-context Learning. [[pdf]](https://arxiv.org/pdf/2301.00234.pdf)
@@ -164,6 +165,22 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [NAACL 2022] Improving In-Context Few-Shot Learning via Self-Supervised Training. [[pdf]](https://aclanthology.org/2022.naacl-main.260.pdf) 
 
 #### Chain-of-Thought Prompting (CoT)
+
+- [ACL 2020] A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers. [[pdf]](https://arxiv.org/pdf/2106.15772.pdf) [[code]](https://github.com/chao-chun/nlu-asdiv-dataset)
+
+- [NAACL 2019] CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge. [[pdf]](https://aclanthology.org/N19-1421.pdf) [[code]](https://github.com/jonathanherzig/commonsenseqa)
+
+- [NeurIPS 2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
+
+- [NeurIPS 2022] Large Language Models are Zero-Shot Reasoners. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf)
+
+- [ICLR 2023] Automatic chain of thought prompting in large language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf) [[code]](https://github.com/amazon-research/auto-cot)
+
+- [arXiv 2022] Rationale-augmented ensembles in language models. [[pdf]](https://arxiv.org/pdf/2210.03493.pdf)
+
+- [arXiv 2023] Specializing Smaller Language Models towards Multi-Step Reasoning. [[pdf]](https://arxiv.org/pdf/2301.12726.pdf)
+
+- [ACL 2023] SCOTT: Self-Consistent Chain-of-Thought Distillation. [[pdf]](https://aclanthology.org/2023.acl-long.304v2.pdf)
 
 #### Instruction Tuning (IT)
 
