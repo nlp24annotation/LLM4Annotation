@@ -205,7 +205,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - [arXiv 2023] GPT-4 Technical Report. [[pdf]](https://arxiv.org/pdf/2303.08774.pdf)
 
-- [arXiv 2023] Llama 2: Open Foundation and Fine-Tuned Chat Models. [[pdf]](https://arxiv.org/pdf/2303.08774.pdf) [[code]](https://github.com/facebookresearch/llama)
+- [arXiv 2023] Llama 2: Open Foundation and Fine-Tuned Chat Models. [[pdf]](https://arxiv.org/pdf/2307.09288.pdf) [[code]](https://github.com/facebookresearch/llama)
 
 - [ICLR 2023] Offline RL for Natural Language Generation with Implicit Language Q Learning. [[pdf]](https://arxiv.org/pdf/2206.11871.pdf) [[code]](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)
 
