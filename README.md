@@ -169,8 +169,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 #### Instruction Tuning (IT)
 
-- [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
-
 - [arXiv 2022] Scaling instruction-finetuned language models. [[pdf]](https://arxiv.org/pdf/2210.11416.pdf) [[code]](https://huggingface.co/docs/transformers/model_doc/flan-t5)
 
 - [ACL 2023] Crosslingual Generalization through Multitask Finetuning. [[pdf]](https://aclanthology.org/2023.acl-long.891.pdf) [[code]](https://github.com/bigscience-workshop/xmtf)
@@ -184,6 +182,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - [arXiv 2022] Teaching language models to support answers with verified quotes. [[pdf]](https://arxiv.org/pdf/2203.11147.pdf) [[data]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Authors-Notes/gophercite-teaching-language-models-to-support-answers-with-verified-quotes/eli5-examples-v2.html)
 
 - [ACL 2023] Can Large Language Models Be an Alternative to Human Evaluations? [[pdf]](https://arxiv.org/pdf/2305.01937.pdf)
+
+- [EMNLP 2022] Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks. [[pdf]](https://aclanthology.org/2022.emnlp-main.340.pdf) [[code]](https://instructions.apps.allenai.org/)
 
 - Stanford alpaca: An instruction-following llama model. [[HTML]](https://crfm.stanford.edu/2023/03/13/alpaca.html) [[code]](https://github.com/tatsu-lab/stanford_alpaca)
 
