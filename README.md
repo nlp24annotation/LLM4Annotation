@@ -17,6 +17,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 ## LLM-Based Data Annotation
 
 ### Manually Engineered Prompt
+- [arXiv 2023] AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators. [[pdf]](https://arxiv.org/pdf/2303.16854.pdf)
+
 - [arXiv 2023] RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment. [[pdf]](https://arxiv.org/pdf/2304.06767.pdf)
 
 - [arXiv 2023] Small Models are Valuable Plug-ins for Large Language Models. [[pdf]](https://arxiv.org/pdf/2305.08848.pdf) [[code]](https://github.com/JetRunner/SuperICL)
